@@ -1,4 +1,4 @@
-#author codelytical
+#author codesntech
 pounds = 2.20462
 weightinput = float(input("Please enter your weight: "))
 unit = input("What is the unit of the weight you input? (kgs or lbs) ")
